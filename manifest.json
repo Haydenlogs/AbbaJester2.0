@@ -1,0 +1,10 @@
+{
+  "creator": "HaydenLogs",
+  "name": "AbbaJester",
+  "version_number": "1.0.0",
+  "author": "Amlinde",
+  "description": "Changes the Jester's wind-up sound to Gimme Gimme Gimme Intro (By Abba)",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
