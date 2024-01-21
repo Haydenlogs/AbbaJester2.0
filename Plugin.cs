@@ -51,7 +51,7 @@ namespace AbbaJester
         {
             if (Plugin.ConstTimer)
             {
-                __instance.popUpTimer = 41.5f;
+                __instance.popUpTimer = 54.3f;
             }
         }
     }
